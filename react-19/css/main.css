@@ -1,0 +1,12 @@
+body {
+  background: beige;
+}
+
+td {
+  width: 150px;
+}
+
+p {
+  display: inline-block;
+  margin-right: 10px;
+}
