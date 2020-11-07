@@ -11,13 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9644032c-89ed-4cf5-89c5-01720392b350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/react-22/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-22/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-22/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-22/src/InputFocus.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-22/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-22/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-22/src/UserFormRef.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-22/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-22/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603616120534</updated>
       <workItem from="1603616121810" duration="3272000" />
-      <workItem from="1603643214549" duration="17547000" />
+      <workItem from="1603643214549" duration="20129000" />
     </task>
     <task id="LOCAL-00001" summary="idea folder">
       <created>1603616425034</created>
@@ -134,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604076000600</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lab22">
+      <created>1604734912805</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604734912805</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add untracked files">
+      <created>1604734995881</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604734995881</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,29 +168,33 @@
     <MESSAGE value="lab 16" />
     <MESSAGE value="lab 19" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="lab22" />
+    <MESSAGE value="add untracked files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add untracked files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2498" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603821670952">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2498" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1603821670952" />
-    <state x="2347" y="109" key="CommitChangelistDialog2" timestamp="1604076000302">
+    <state x="2347" y="109" key="CommitChangelistDialog2" timestamp="1604734995631">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2347" y="109" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604068600135" />
+    <state x="2347" y="109" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604734995631" />
     <state x="2347" y="109" key="CommitChangelistDialog2/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604076000302" />
     <state x="1992" y="100" key="DiffContextDialog" timestamp="1604075981804">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="1992" y="100" key="DiffContextDialog/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604075981804" />
-    <state x="1992" y="91" key="MergeDialog" timestamp="1604076053858">
+    <state x="1992" y="91" key="MergeDialog" timestamp="1604735041523">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
+    <state x="1992" y="91" key="MergeDialog/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604735041523" />
     <state x="1992" y="91" key="MergeDialog/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604076053858" />
-    <state x="2400" y="293" key="MultipleFileMergeDialog" timestamp="1604076056945">
+    <state x="2400" y="293" key="MultipleFileMergeDialog" timestamp="1604735041589">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
+    <state x="2400" y="293" key="MultipleFileMergeDialog/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604735041589" />
     <state x="2400" y="293" key="MultipleFileMergeDialog/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604076056945" />
     <state x="2248" y="106" key="SettingsEditor" timestamp="1603616503646">
       <screen x="1920" y="0" width="1680" height="1050" />
@@ -190,23 +204,24 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2612" y="445" key="VCS.ChangelistChooser/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604068582399" />
-    <state x="2360" y="265" key="Vcs.Push.Dialog.v2" timestamp="1604076084161">
+    <state x="2360" y="265" key="Vcs.Push.Dialog.v2" timestamp="1604735279988">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2360" y="265" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604068604134" />
-    <state x="2360" y="265" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604076084161" />
+    <state x="2360" y="265" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604734997524" />
+    <state x="2360" y="265" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604735279988" />
     <state x="2541" y="266" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604075968936">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2541" y="266" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604068588021" />
     <state x="2541" y="266" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604075968936" />
-    <state x="541" y="280" width="598" height="490" key="find.popup" timestamp="1604562412206">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="541" y="280" width="598" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604562412206" />
-    <state x="2425" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1604677501240">
+    <state x="2461" y="280" width="598" height="490" key="find.popup" timestamp="1604735234279">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2425" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604677501240" />
+    <state x="541" y="280" width="598" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604562412206" />
+    <state x="2461" y="280" width="598" height="490" key="find.popup/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604735234279" />
+    <state x="2425" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1604735807784">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2425" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604735807784" />
   </component>
 </project>
