@@ -11,6 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9644032c-89ed-4cf5-89c5-01720392b350" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/react-22/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-22/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-22/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-22/src/InputFocus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-22/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-22/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -28,7 +36,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lab19" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,6 +48,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -50,6 +59,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react-22/css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -78,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603616120534</updated>
       <workItem from="1603616121810" duration="3272000" />
-      <workItem from="1603643214549" duration="11554000" />
+      <workItem from="1603643214549" duration="17547000" />
     </task>
     <task id="LOCAL-00001" summary="idea folder">
       <created>1603616425034</created>
@@ -115,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604068600421</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1604076000600</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604076000600</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,18 +157,31 @@
     <MESSAGE value="lab 11" />
     <MESSAGE value="lab 16" />
     <MESSAGE value="lab 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 19" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2498" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603821670952">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2498" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1603821670952" />
-    <state x="2347" y="109" key="CommitChangelistDialog2" timestamp="1604068600135">
+    <state x="2347" y="109" key="CommitChangelistDialog2" timestamp="1604076000302">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2347" y="109" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604068600135" />
-    <state x="2347" y="109" key="CommitChangelistDialog2/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604068167385" />
+    <state x="2347" y="109" key="CommitChangelistDialog2/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604076000302" />
+    <state x="1992" y="100" key="DiffContextDialog" timestamp="1604075981804">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1992" y="100" key="DiffContextDialog/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604075981804" />
+    <state x="1992" y="91" key="MergeDialog" timestamp="1604076053858">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1992" y="91" key="MergeDialog/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604076053858" />
+    <state x="2400" y="293" key="MultipleFileMergeDialog" timestamp="1604076056945">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2400" y="293" key="MultipleFileMergeDialog/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604076056945" />
     <state x="2248" y="106" key="SettingsEditor" timestamp="1603616503646">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
@@ -158,17 +190,23 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2612" y="445" key="VCS.ChangelistChooser/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604068582399" />
-    <state x="2360" y="265" key="Vcs.Push.Dialog.v2" timestamp="1604068604134">
+    <state x="2360" y="265" key="Vcs.Push.Dialog.v2" timestamp="1604076084161">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2360" y="265" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604068604134" />
-    <state x="2541" y="266" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604068588021">
+    <state x="2360" y="265" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604076084161" />
+    <state x="2541" y="266" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604075968936">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2541" y="266" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604068588021" />
-    <state x="2425" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1604048400256">
+    <state x="2541" y="266" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1920.1057/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604075968936" />
+    <state x="541" y="280" width="598" height="490" key="find.popup" timestamp="1604562412206">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="541" y="280" width="598" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604562412206" />
+    <state x="2425" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1604677501240">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2425" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604048400256" />
+    <state x="2425" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/1920.0.1680.1050@1920.0.1680.1050" timestamp="1604677501240" />
   </component>
 </project>
